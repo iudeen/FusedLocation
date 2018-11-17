@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fused Location</string>
+    <string name="location">Current Location</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
