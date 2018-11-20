@@ -9,3 +9,4 @@
 /build
 /captures
 .externalNativeBuild
+echo "**/*/res/values/secrets.xml" > .gitignore
